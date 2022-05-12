@@ -1,0 +1,31 @@
+/*style*/
+h1 {
+    color: rgb(159, 187, 211);
+    text-align: center;
+    font-family: Arial;
+    font-size: 21;
+    font-weight: bold;
+}
+body {
+    background-image: url("https://zastavok.net/temp/wp_1920x1080_textures_155966166271.jpg");
+    background-size: cover;
+}
+p {
+    text-align: center;
+    font-family: Arial;
+    color: azure;
+}
+h3 {
+    text-align: center;
+    color: rgb(162, 103, 218);
+    font-family: Arial;
+}
+a {
+    text-decoration: none;
+    font-family: Arial;
+}
+a:hover {
+    color: rgb(178, 137, 216);
+    font-family: Arial;
+    cursor: pointer;
+}
